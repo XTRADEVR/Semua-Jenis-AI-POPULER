@@ -1,0 +1,87 @@
+{
+  "title": "SEMUA JENIS AI - SEMUA AI POPULER DALAM SATU GAMBAR",
+  "total_tools": 129,
+  "data": [
+    {
+      "kategori": "CHATBOT / ASISTEN AI",
+      "tools": [
+        {"name": "ChatGPT", "url": "https://chat.openai.com"},
+        {"name": "Claude", "url": "https://claude.ai"},
+        {"name": "Google Gemini", "url": "https://gemini.google.com"},
+        {"name": "Microsoft Copilot", "url": "https://copilot.microsoft.com"},
+        {"name": "Perplexity AI", "url": "https://www.perplexity.ai"},
+        {"name": "Poe", "url": "https://poe.com"},
+        {"name": "You.com", "url": "https://you.com"},
+        {"name": "Hugging Chat", "url": "https://huggingface.co/chat"},
+        {"name": "Copilot (Bing)", "url": "https://www.bing.com/chat"},
+        {"name": "Meta AI", "url": "https://www.meta.ai"},
+        {"name": "Character.AI", "url": "https://character.ai"},
+        {"name": "Replika", "url": "https://replika.com"},
+        {"name": "Pi", "url": "https://pi.ai"},
+        {"name": "Phind", "url": "https://www.phind.com"},
+        {"name": "Kuki AI", "url": "https://www.kuki.ai"},
+        {"name": "Chai", "url": "https://www.chai-research.com"}
+      ]
+    },
+    {
+      "kategori": "MESIN PENCARI AI",
+      "tools": [
+        {"name": "Perplexity", "url": "https://www.perplexity.ai"},
+        {"name": "You.com", "url": "https://you.com"},
+        {"name": "Brave Search (Leo)", "url": "https://brave.com/leo"},
+        {"name": "Andi", "url": "https://andisearch.com"},
+        {"name": "Phind", "url": "https://www.phind.com"},
+        {"name": "Komo Search", "url": "https://komo.ai"},
+        {"name": "Consensus", "url": "https://consensus.app"},
+        {"name": "Elicit", "url": "https://elicit.com"},
+        {"name": "Scite AI", "url": "https://www.scite.ai"},
+        {"name": "ChatPDF", "url": "https://www.chatpdf.com"}
+      ]
+    },
+    {
+      "kategori": "AI GAMBAR / DESAIN",
+      "tools": [
+        {"name": "DALL-E", "url": "https://openai.com/dall-e-3"},
+        {"name": "Midjourney", "url": "https://www.midjourney.com"},
+        {"name": "Stable Diffusion", "url": "https://stability.ai"},
+        {"name": "Leonardo AI", "url": "https://leonardo.ai"},
+        {"name": "Adobe Firefly", "url": "https://firefly.adobe.com"},
+        {"name": "Bing Image Creator", "url": "https://www.bing.com/images/create"},
+        {"name": "Ideogram", "url": "https://ideogram.ai"},
+        {"name": "Canva AI", "url": "https://www.canva.com/ai-image-generator/"}
+      ]
+    },
+    {
+      "kategori": "AI VIDEO",
+      "tools": [
+        {"name": "Runway", "url": "https://runwayml.com"},
+        {"name": "Pika", "url": "https://pika.art"},
+        {"name": "Synthesia", "url": "https://www.synthesia.io"},
+        {"name": "HeyGen", "url": "https://www.heygen.com"},
+        {"name": "Luma AI", "url": "https://lumalabs.ai"}
+      ]
+    },
+    {
+      "kategori": "AI AUDIO / MUSIK",
+      "tools": [
+        {"name": "Suno", "url": "https://suno.ai"},
+        {"name": "Udio", "url": "https://www.udio.com"},
+        {"name": "ElevenLabs", "url": "https://elevenlabs.io"}
+      ]
+    },
+    {
+      "kategori": "FRAMEWORK / PLATFORM AI",
+      "tools": [
+        {"name": "OpenAI", "url": "https://openai.com"},
+        {"name": "Hugging Face", "url": "https://huggingface.co"},
+        {"name": "LangChain", "url": "https://www.langchain.com"}
+      ]
+    }
+  ],
+  "fakta_menarik": [
+    "Ribuan AI baru bermunculan setiap bulan",
+    "Manfaatkan AI sesuai kebutuhanmu",
+    "AI adalah tools, kreativitas tetap milikmu!"
+  ],
+  "footer": "DUNIA AI TERUS BERKEMBANG - TERUS BELAJAR, TERUS BERKARYA!"
+}
